@@ -1,0 +1,50 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.Empty Project" count="2" />
+      <entry feature="CreateFile.CreateFileAction" count="68" />
+      <entry feature="JSDebugConfig.Run.browser-default.preferredBrowser-null.no_mappings" count="1" />
+      <entry feature="OpenInBrowser.Chrome" count="5" />
+      <entry feature="StripeButton[Event Log].hidden" count="1" />
+      <entry feature="StripeButton[Favorites].hidden" count="1" />
+      <entry feature="StripeButton[Structure].hidden" count="2" />
+      <entry feature="StripeButton[Version Control].hidden" count="1" />
+      <entry feature="execute.JavascriptDebugType.Run" count="1" />
+      <entry feature="execute.NodeJSConfigurationType.Run" count="6" />
+      <entry feature="execute.PhoneGap.Run" count="4" />
+      <entry feature="execute.js.build_tools.gulp.Debug" count="4" />
+      <entry feature="execute.js.build_tools.gulp.Run" count="22" />
+      <entry feature="execute.js.build_tools.npm.Debug" count="2" />
+      <entry feature="execute.js.build_tools.npm.Run" count="38" />
+      <entry feature="ide.help.Colorblind_Settings" count="1" />
+      <entry feature="ide.help.preferences.lookFeel" count="1" />
+      <entry feature="ide.settings.Appearance" count="14" />
+      <entry feature="ide.settings.CSS" count="4" />
+      <entry feature="ide.settings.Code_Style" count="13" />
+      <entry feature="ide.settings.CoffeeScript" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="16" />
+      <entry feature="ide.settings.Console_Font" count="10" />
+      <entry feature="ide.settings.Dart" count="1" />
+      <entry feature="ide.settings.Font" count="27" />
+      <entry feature="ide.settings.General" count="5" />
+      <entry feature="ide.settings.Git" count="1" />
+      <entry feature="ide.settings.HTML" count="1" />
+      <entry feature="ide.settings.JSON" count="2" />
+      <entry feature="ide.settings.JavaScript" count="5" />
+      <entry feature="ide.settings.Keymap" count="5" />
+      <entry feature="ide.settings.Less" count="1" />
+      <entry feature="ide.settings.Markdown" count="1" />
+      <entry feature="ide.settings.Other_File_Types" count="1" />
+      <entry feature="ide.settings.Plugins" count="5" />
+      <entry feature="ide.settings.SCSS" count="2" />
+      <entry feature="ide.settings.Sass" count="1" />
+      <entry feature="ide.settings.TypeScript" count="1" />
+      <entry feature="ide.settings.Updates" count="1" />
+      <entry feature="ideaapp.started" count="43" />
+      <entry feature="json.schema.builtin.completion" count="8" />
+      <entry feature="terminal.mac" count="45" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="3" />
+      <entry feature="welcome.screen.null" count="4" />
+    </counts>
+  </component>
+</application>

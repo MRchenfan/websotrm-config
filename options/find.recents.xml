@@ -1,0 +1,29 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>params</find>
+      <find>error</find>
+      <find>getSession</find>
+      <find>newToken</find>
+      <find>saveSession</find>
+      <find>expired</find>
+      <find>token</find>
+      <find>md5</find>
+      <find>payPage</find>
+      <find>content-</find>
+      <find>classlist</find>
+      <find>findAll</find>
+      <find>alipayOnlineLearning</find>
+      <find>body</find>
+      <find>saveCargoZip</find>
+      <find>updat</find>
+      <find>page</find>
+      <find>ali</find>
+      <find>images</find>
+      <find>图片</find>
+      <find>comment</find>
+      <find>comm</find>
+      <find>search</find>
+    </findStrings>
+  </component>
+</application>
